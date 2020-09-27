@@ -1,0 +1,14 @@
+module.exports = {
+	name: 'PUT UR COMMAND NAME ',
+	description: "PUT UR DESCRIPTION WHICH U DONT NEED",
+	aliases: [],
+	async execute(bot, message, args){
+
+PUT ALL UR CIDES IN THIS SPACE
+
+HERE TOO
+
+HERE TOO
+
+	},
+};
